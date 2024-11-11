@@ -1,7 +1,8 @@
+"use client ";
 import { OrbitControls, Wireframe } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import { motion } from "framer-motion-3d";
-
+// @typescript-eslint/no-unused-vars
 export const BoxModel = () => {
   return (
     <>
